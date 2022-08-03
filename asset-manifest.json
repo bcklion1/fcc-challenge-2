@@ -1,15 +1,15 @@
 {
-  "main.css": "/fcc2/static/css/main.c1cf73c9.chunk.css",
-  "main.js": "/fcc2/static/js/main.ec108348.chunk.js",
-  "main.js.map": "/fcc2/static/js/main.ec108348.chunk.js.map",
-  "static/js/1.b0d79708.chunk.js": "/fcc2/static/js/1.b0d79708.chunk.js",
-  "static/js/1.b0d79708.chunk.js.map": "/fcc2/static/js/1.b0d79708.chunk.js.map",
-  "static/js/2.a1a542c4.chunk.js": "/fcc2/static/js/2.a1a542c4.chunk.js",
-  "static/js/2.a1a542c4.chunk.js.map": "/fcc2/static/js/2.a1a542c4.chunk.js.map",
-  "runtime~main.js": "/fcc2/static/js/runtime~main.1f2adde5.js",
-  "runtime~main.js.map": "/fcc2/static/js/runtime~main.1f2adde5.js.map",
-  "static/css/main.c1cf73c9.chunk.css.map": "/fcc2/static/css/main.c1cf73c9.chunk.css.map",
-  "index.html": "/fcc2/index.html",
-  "precache-manifest.ba25ed6fbf23fcae0d6649bc319dd6cb.js": "/fcc2/precache-manifest.ba25ed6fbf23fcae0d6649bc319dd6cb.js",
-  "service-worker.js": "/fcc2/service-worker.js"
+  "main.css": "/fcc-challenge-2/static/css/main.c1cf73c9.chunk.css",
+  "main.js": "/fcc-challenge-2/static/js/main.ec108348.chunk.js",
+  "main.js.map": "/fcc-challenge-2/static/js/main.ec108348.chunk.js.map",
+  "static/js/1.b0d79708.chunk.js": "/fcc-challenge-2/static/js/1.b0d79708.chunk.js",
+  "static/js/1.b0d79708.chunk.js.map": "/fcc-challenge-2/static/js/1.b0d79708.chunk.js.map",
+  "static/js/2.a1a542c4.chunk.js": "/fcc-challenge-2/static/js/2.a1a542c4.chunk.js",
+  "static/js/2.a1a542c4.chunk.js.map": "/fcc-challenge-2/static/js/2.a1a542c4.chunk.js.map",
+  "runtime~main.js": "/fcc-challenge-2/static/js/runtime~main.dd4dcc82.js",
+  "runtime~main.js.map": "/fcc-challenge-2/static/js/runtime~main.dd4dcc82.js.map",
+  "static/css/main.c1cf73c9.chunk.css.map": "/fcc-challenge-2/static/css/main.c1cf73c9.chunk.css.map",
+  "index.html": "/fcc-challenge-2/index.html",
+  "precache-manifest.ec984334f1893dfd1f04f3ee2b0c134a.js": "/fcc-challenge-2/precache-manifest.ec984334f1893dfd1f04f3ee2b0c134a.js",
+  "service-worker.js": "/fcc-challenge-2/service-worker.js"
 }

@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/fcc2/precache-manifest.ba25ed6fbf23fcae0d6649bc319dd6cb.js"
+  "/fcc-challenge-2/precache-manifest.ec984334f1893dfd1f04f3ee2b0c134a.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/fcc2/index.html", {
+workbox.routing.registerNavigationRoute("/fcc-challenge-2/index.html", {
   
   blacklist: [/^\/_/,/\/[^/]+\.[^/]+$/],
 });
